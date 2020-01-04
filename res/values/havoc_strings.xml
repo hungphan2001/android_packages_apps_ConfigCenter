@@ -870,5 +870,14 @@
 	<!-- QS category -->
     <string name="enable_clear_all_button">Replace clear all text with nice button</string>
     <string name="enable_clear_all_button_summary">Show clear all notifications button in quick settings instead of default text one</string>
+	
+	<!-- Lockscreen clock style -->
+    <string name="lockscreen_clock_title">Clock style</string>
+    <string name="lockscreen_clock_dialog_title">Select clock style</string>
+    <string name="lockscreen_clock_hide">Hide</string>
+    <string name="lockscreen_clock_default">Default</string>
+    <string name="lockscreen_clock_default_bold">Default (bold)</string>
+    <string name="lockscreen_clock_sammy">Sammy</string>
+    <string name="lockscreen_clock_sammy_bold">Sammy (bold)</string>
 
 </resources>
