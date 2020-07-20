@@ -866,5 +866,9 @@
     <string name="qs_header_background_title">Statusbar background</string>
     <string name="qs_header_background_black">Black</string>
     <string name="qs_header_background_transparent">Transparent</string>
+	
+	<!-- QS category -->
+    <string name="enable_clear_all_button">Replace clear all text with nice button</string>
+    <string name="enable_clear_all_button_summary">Show clear all notifications button in quick settings instead of default text one</string>
 
 </resources>
